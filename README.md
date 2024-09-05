@@ -1,4 +1,4 @@
- Esse projeto tem o objetivo de converter o valor em reais digitado pelo usuário para o valor equivalente em outra moeda, como euro, dólar, libra ou bitcoin.
+ Esse projeto tem o objetivo de converter o valor em reais digitado pelo usuário para o valor equivalente em outra moeda como euro, dólar, libra ou bitcoin.
 
 Este exercício me ajudou a melhorar a prática com JavaScript.
 
