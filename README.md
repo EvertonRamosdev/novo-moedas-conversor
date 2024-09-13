@@ -8,3 +8,5 @@ HTML
 CSS
 JavaScript
 O mais importante para mim foi a oportunidade de exercitar a manipulação do DOM.
+
+Projeto atualizado com ajuda de uma api agora podemos usar reais 
