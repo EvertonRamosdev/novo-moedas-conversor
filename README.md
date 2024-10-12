@@ -4,8 +4,8 @@ Este exercício me ajudou a melhorar a prática com JavaScript.
 
 Tecnologias usadas:
 
-HTML
-CSS
+Html
+Css
 JavaScript
 O mais importante para mim foi a oportunidade de exercitar a manipulação do DOM.
 
